@@ -1,0 +1,33 @@
+.table {
+  margin-top: 50px;
+  border-collapse: collapse;
+  background-color: rgb(244, 241, 241);
+  color: rgb(85, 84, 84);
+  width: 100%;
+}
+
+.table .highchart {
+  padding: 0;
+}
+
+.table tbody tr {
+  cursor: pointer;
+}
+
+.table th,
+.table td {
+  border: 2px solid white;
+  padding: 10px;
+}
+
+.table .col_num {
+  text-align: center;
+}
+
+.current_day {
+  background-color: #d8ebf8;
+}
+
+.active_row {
+  text-decoration: underline;
+}

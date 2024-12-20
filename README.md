@@ -4,6 +4,8 @@
 
 Table Graph App - React Single Page Application.
 
+Test task for the position of "Frontend Developer" (Delta)
+
 ## Getting Started
 
 To install and use the project, follow these steps:
